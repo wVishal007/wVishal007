@@ -1,133 +1,108 @@
-# Hi 👋 I'm Vishal
+<h1 align="center">Hi 👋 I'm Vishal Singh</h1>
+<h3 align="center">Frontend Engineer (React & Redux) | MERN Stack Developer | ML Enthusiast</h3>
 
-🚀 Full Stack Developer (MERN) | React & Redux Specialist  
-🤖 Machine Learning & Deep Learning Enthusiast  
-🏆 Hackathon Winner | Technical Lead  
+<p align="center">
+  <a href="https://github.com/wVishal007">
+    <img src="https://komarev.com/ghpvc/?username=wVishal007&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a BCA student (2023–2026) at Delhi Skill and Entrepreneurship University with hands-on experience in building production-ready full stack applications and deploying machine learning systems.
-
-I specialize in building scalable MERN stack applications with secure authentication, optimized state management (Redux), and performance-focused UI architectures.
-
-I also design and deploy end-to-end ML systems using PyTorch, Flask, and FastAPI.
-
-I believe in building real-world systems — not just projects.
+- 🎓 BCA (2023–2026) — Delhi Skill & Entrepreneurship University  
+- 🚀 Building scalable MERN stack applications  
+- 🧠 Deploying real-world ML systems with PyTorch & FastAPI  
+- 🏆 Hackathon Winner | Technical Lead  
+- 📈 Focused on performance, clean architecture & production-ready systems  
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Frontend
-- React.js
-- Redux / Redux Toolkit
-- TypeScript
-- JavaScript (ES6+)
-- HTML5, CSS3
-- Tailwind CSS
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
 
 ### 🔧 Backend
-- Node.js
-- Express.js
-- Flask
-- FastAPI
-- REST APIs
-- JWT Authentication
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
 
-### 🗄 Databases
-- MongoDB
-- MySQL
+### 🗄 Database
+<p>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ### 🤖 Machine Learning
-- PyTorch
-- Scikit-learn
-- NLP (TF-IDF, Bag of Words, CountVectorizer)
-- Model Deployment (Flask/FastAPI)
-- Feature Engineering & StandardScaler
-- Regression & Classification
-
-### ⚙ Tools
-- Git & GitHub
-- Postman
-- Cloudinary
-- Razorpay Integration
-- Vercel / Render Deployment
+PyTorch • Scikit-learn • NLP • Feature Engineering • Model Deployment  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 Instagram Clone (MERN + Redux)
-Full-stack social media platform with authentication, posts, likes, comments, follow system, and stories.
+- Optimized global state using Redux  
+- JWT-secured authentication  
+- Cloudinary media optimization  
+- Modular scalable architecture  
 
-✔ Optimized Redux state management  
-✔ JWT-secured backend  
-✔ Cloudinary media optimization  
-✔ Responsive UI architecture  
-
-Live: https://instaclone-sje7.onrender.com  
-Repo: https://github.com/wVishal007/INSTACLONE
+🔗 Live: https://instaclone-sje7.onrender.com  
+🔗 Repo: https://github.com/wVishal007/INSTACLONE  
 
 ---
 
 ### 🔹 E-Commerce Platform (Client Project)
-Production-ready MERN stack application with:
-
-✔ Razorpay payment integration  
-✔ OTP-based authentication  
-✔ Admin dashboard  
-✔ Email/SMS notifications  
-✔ 45% optimized media loading  
+- Razorpay integration  
+- OTP-based authentication  
+- Admin dashboard  
+- 45% optimized media performance  
 
 ---
 
 ### 🔹 Freelancer Income Prediction (Deep Learning)
-End-to-end deployed regression model using:
+- PyTorch Neural Network (128 → 64 → 1)  
+- 433 engineered features  
+- Flask REST API + React frontend  
+- End-to-end ML lifecycle  
 
-✔ PyTorch Neural Network (128 → 64 → 1)  
-✔ 433 engineered features  
-✔ StandardScaler preprocessing pipeline  
-✔ Flask REST API  
-✔ React frontend  
-
-Live: https://incomeprediction-hwtw.onrender.com  
-
----
-
-### 🔹 Anime Recommendation System (NLP)
-✔ Content-based filtering  
-✔ Cosine similarity  
-✔ Flask REST API  
-✔ Optimized inference latency  
+🔗 Live: https://incomeprediction-hwtw.onrender.com  
 
 ---
 
 ## 🏆 Achievements
 
-🥇 1st Place – IIT Delhi Hackathon (TechGyan)  
-🥉 3rd Place – Infronix Hackathon, IIIT Delhi  
-🏅 Sponsor Track Winner – Hackemon Hackathon  
+🥇 1st Place — IIT Delhi Hackathon  
+🥉 3rd Place — IIIT Delhi Hackathon  
+🏅 Sponsor Track Winner — Hackemon  
 
 ---
 
-## 👨‍🏫 Leadership
+## 📊 GitHub Stats
 
-Technical Lead – TechEra Community  
-- Mentored developers in MERN & ML  
-- Reduced development cycle time by 25%  
-- Scaled deployed projects from 3 to 8  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=wVishal007&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wVishal007&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
 📧 vishalsingh31879@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/vishal-singh-188013324  
-🌐 Portfolio: https://vishal4u.vercel.app  
-🐙 GitHub: https://github.com/wVishal007  
+💼 linkedin.com/in/vishal-singh-188013324  
+🌐 vishal4u.vercel.app  
 
 ---
 
-⭐ Building scalable systems. Learning every day. Competing with yesterday’s version of myself.
+⭐ Building scalable systems. Learning aggressively. Shipping consistently.
