@@ -1,59 +1,65 @@
 <h1 align="center">Hi 👋 I'm Vishal Singh</h1>
-<h3 align="center">Frontend Engineer (React & Redux) | MERN Stack Developer | ML Enthusiast</h3>
+<h3 align="center">Software Engineer | Full Stack Developer | AI & Machine Learning Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/wVishal007">
-    <img src="https://komarev.com/ghpvc/?username=wVishal007&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=wVishal007&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 BCA (2023–2026) — Delhi Skill & Entrepreneurship University  
-- 🚀 Building scalable MERN stack applications  
-- 🧠 Deploying real-world ML systems with PyTorch & FastAPI  
-- 🏆 Hackathon Winner | Technical Lead  
-- 📈 Focused on performance, clean architecture & production-ready systems  
+🎓 BCA Student (2023–2026) — Delhi Skill & Entrepreneurship University  
+💡 Passionate about building scalable web platforms & production AI systems  
+🏆 3x Hackathon Winner  
+👨‍🏫 Technical Lead — Mentoring developers in MERN & ML  
 
----
-
-## 🛠 Tech Stack
-
-### 💻 Frontend
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
-
-### 🔧 Backend
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
-### 🗄 Database
-<p>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🤖 Machine Learning
-PyTorch • Scikit-learn • NLP • Feature Engineering • Model Deployment  
+I design, build, and deploy complete systems — from frontend UI and backend APIs to machine learning model deployment.
 
 ---
 
-## 🚀 Featured Projects
+# 🛠 Tech Stack
 
-### 🔹 Instagram Clone (MERN + Redux)
-- Optimized global state using Redux  
-- JWT-secured authentication  
+## 🌐 Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,tailwind,bootstrap" />
+</p>
+
+## ⚙ Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
+</p>
+
+## 🗄 Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+## 🤖 Machine Learning / AI / Deep Learning
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
+
+- Scikit-learn  
+- NLP (TF-IDF, Bag of Words, CountVectorizer)  
+- Regression & Classification  
+- Feature Engineering & Preprocessing Pipelines  
+- Model Deployment (Flask / FastAPI)  
+
+## 🧰 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+Cloudinary • Razorpay • Vercel • Render  
+
+---
+
+# 🚀 Projects
+
+## 🔹 Instagram Clone (Full Stack + Redux)
+- Secure JWT authentication  
+- Optimized Redux global state  
 - Cloudinary media optimization  
 - Modular scalable architecture  
 
@@ -62,17 +68,18 @@ PyTorch • Scikit-learn • NLP • Feature Engineering • Model Deployment
 
 ---
 
-### 🔹 E-Commerce Platform (Client Project)
-- Razorpay integration  
-- OTP-based authentication  
-- Admin dashboard  
-- 45% optimized media performance  
+## 🔹 E-Commerce Platform (Client Project)
+- Razorpay payment gateway integration  
+- OTP-based mobile authentication  
+- Admin dashboard with real-time management  
+- 45% improved media performance  
 
 ---
 
-### 🔹 Freelancer Income Prediction (Deep Learning)
+## 🔹 Freelancer Income Prediction (Deep Learning)
 - PyTorch Neural Network (128 → 64 → 1)  
 - 433 engineered features  
+- Full preprocessing + scaling pipeline  
 - Flask REST API + React frontend  
 - End-to-end ML lifecycle  
 
@@ -80,15 +87,45 @@ PyTorch • Scikit-learn • NLP • Feature Engineering • Model Deployment
 
 ---
 
-## 🏆 Achievements
-
-🥇 1st Place — IIT Delhi Hackathon  
-🥉 3rd Place — IIIT Delhi Hackathon  
-🏅 Sponsor Track Winner — Hackemon  
+## 🔹 Anime Recommendation System (NLP)
+- Content-based filtering  
+- Cosine similarity  
+- Optimized inference latency  
+- Flask API deployment  
 
 ---
 
-## 📊 GitHub Stats
+# 🏆 Hackathons & Achievements
+
+🥇 1st Place — IIT Delhi Hackathon (TechGyan)  
+🥉 3rd Place — Infronix Hackathon, IIIT Delhi  
+🏅 Sponsor Track Winner — Hackemon Hackathon  
+
+---
+
+# 📜 Certifications
+
+- AI Fundamentals — IBM  
+- Deep Learning — Simplilearn  
+- Introduction to Artificial Intelligence — Simplilearn  
+- Introduction to MERN Stack — Simplilearn  
+- Data Structures & Algorithms in Python — Simplilearn  
+- Machine Learning & Neural Networks — TechGyan  
+
+---
+
+# 👨‍🏫 Leadership Experience
+
+**Technical Lead — TechEra Community**
+
+✔ Reduced development cycle time by 25%  
+✔ Mentored developers in Full Stack & ML  
+✔ Scaled deployed projects from 3 to 8  
+✔ Enforced clean architecture & performance standards  
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=wVishal007&show_icons=true&theme=tokyonight" height="160"/>
@@ -97,7 +134,7 @@ PyTorch • Scikit-learn • NLP • Feature Engineering • Model Deployment
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 📧 vishalsingh31879@gmail.com  
 💼 linkedin.com/in/vishal-singh-188013324  
@@ -105,4 +142,4 @@ PyTorch • Scikit-learn • NLP • Feature Engineering • Model Deployment
 
 ---
 
-⭐ Building scalable systems. Learning aggressively. Shipping consistently.
+⭐ Building scalable systems across Web & AI. Always learning. Always shipping.
