@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋 I'm Vishal Singh</h1>
+<!-- Animated Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=0E75B6&center=true&vCenter=true&width=800&lines=Hi+I'm+Vishal+Singh;Software+Engineer;Full+Stack+Developer;AI+%7C+ML+%7C+Deep+Learning+Engineer;Building+Scalable+Systems" />
+</p>
+
 <h3 align="center">Software Engineer | Full Stack Developer | AI & ML Engineer</h3>
 
 <p align="center">
@@ -9,18 +13,19 @@
 
 # 👨‍💻 About Me
 
-🎓 BCA Student (2023–2026) — Delhi Skill & Entrepreneurship University  
+🎓 BCA (2023–2026) — Delhi Skill & Entrepreneurship University  
 🏆 3x Hackathon Winner  
 👨‍🏫 Technical Lead — TechEra Community  
 
-I build scalable web platforms and deploy production-ready AI systems.  
-From frontend architecture and backend APIs to ML model deployment — I work across the stack.
+I build production-ready systems across Web & AI — from scalable frontend interfaces and backend APIs to machine learning model deployment.
+
+Focused on clean architecture, performance optimization, and real-world impact.
 
 ---
 
 # 🛠 Technical Skills
 
-## 🌐 Frontend Development
+## 🌐 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react" height="40"/> React  
@@ -34,7 +39,7 @@ From frontend architecture and backend APIs to ML model deployment — I work ac
 
 ---
 
-## ⚙ Backend Development
+## ⚙ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs" height="40"/> Node.js  
@@ -56,29 +61,16 @@ REST APIs • JWT Authentication • OTP Authentication
 
 ---
 
-## 🤖 Machine Learning / AI / Deep Learning
+## 🤖 AI / Machine Learning / Deep Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" height="40"/> Python  
 <img src="https://skillicons.dev/icons?i=pytorch" height="40"/> PyTorch  
 </p>
 
-Scikit-learn • NLP (TF-IDF, Bag of Words, CountVectorizer)  
+Scikit-learn • NLP (TF-IDF, BoW, CountVectorizer)  
 Regression • Classification • Feature Engineering  
 Model Deployment (Flask / FastAPI)
-
----
-
-## 🧰 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git" height="40"/> Git  
-<img src="https://skillicons.dev/icons?i=github" height="40"/> GitHub  
-<img src="https://skillicons.dev/icons?i=postman" height="40"/> Postman  
-<img src="https://skillicons.dev/icons?i=vscode" height="40"/> VS Code  
-</p>
-
-Cloudinary • Razorpay • Vercel • Render  
 
 ---
 
@@ -86,8 +78,8 @@ Cloudinary • Razorpay • Vercel • Render
 
 ## 🔹 Instagram Clone (Full Stack + Redux)
 
-- JWT-secured authentication  
-- Optimized global state management  
+- Secure JWT authentication  
+- Optimized Redux global state  
 - Cloudinary media optimization  
 - Modular scalable architecture  
 
@@ -98,12 +90,12 @@ Cloudinary • Razorpay • Vercel • Render
 
 ## 🔹 E-Commerce Platform (Client Project)
 
-- Razorpay payment integration  
+- Razorpay payment gateway integration  
 - OTP-based mobile authentication  
-- Admin dashboard  
-- 45% optimized media performance  
+- Admin dashboard with real-time management  
+- 45% improved media performance  
 
-<!-- Add Live Link Here When Available -->
+<!-- Add live demo link when available -->
 
 ---
 
@@ -111,11 +103,12 @@ Cloudinary • Razorpay • Vercel • Render
 
 - PyTorch Neural Network (128 → 64 → 1)  
 - 433 engineered features  
-- Complete preprocessing pipeline  
+- Full preprocessing & scaling pipeline  
 - Flask REST API + React frontend  
 
 🔗 Live: https://incomeprediction-hwtw.onrender.com  
-<!-- Add Demo Video Link Here -->
+
+<!-- Add demo video link -->
 
 ---
 
@@ -126,7 +119,7 @@ Cloudinary • Razorpay • Vercel • Render
 - Optimized inference latency  
 - Flask API deployment  
 
-<!-- Add Live Link If Deployed -->
+<!-- Add live link if deployed -->
 
 ---
 
@@ -158,11 +151,15 @@ Technical Lead — TechEra Community
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Activity
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=wVishal007&show_icons=true&theme=tokyonight" height="160"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wVishal007&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wVishal007&theme=tokyo-night" />
 </p>
 
 ---
@@ -175,4 +172,4 @@ Technical Lead — TechEra Community
 
 ---
 
-⭐ Building scalable systems across Web & AI.
+⭐ Building scalable systems across Web & AI. Always learning. Always shipping.
