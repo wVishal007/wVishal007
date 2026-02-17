@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Vishal Singh</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | AI & Machine Learning Engineer</h3>
+<h3 align="center">Software Engineer | Full Stack Developer | AI & ML Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wVishal007&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -10,45 +10,72 @@
 # 👨‍💻 About Me
 
 🎓 BCA Student (2023–2026) — Delhi Skill & Entrepreneurship University  
-💡 Passionate about building scalable web platforms & production AI systems  
 🏆 3x Hackathon Winner  
-👨‍🏫 Technical Lead — Mentoring developers in MERN & ML  
+👨‍🏫 Technical Lead — TechEra Community  
 
-I design, build, and deploy complete systems — from frontend UI and backend APIs to machine learning model deployment.
+I build scalable web platforms and deploy production-ready AI systems.  
+From frontend architecture and backend APIs to ML model deployment — I work across the stack.
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Technical Skills
 
 ## 🌐 Frontend Development
+
 <p>
-<img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react" height="40"/> React  
+<img src="https://skillicons.dev/icons?i=redux" height="40"/> Redux  
+<img src="https://skillicons.dev/icons?i=ts" height="40"/> TypeScript  
+<img src="https://skillicons.dev/icons?i=js" height="40"/> JavaScript  
+<img src="https://skillicons.dev/icons?i=html" height="40"/> HTML5  
+<img src="https://skillicons.dev/icons?i=css" height="40"/> CSS3  
+<img src="https://skillicons.dev/icons?i=tailwind" height="40"/> Tailwind CSS  
 </p>
+
+---
 
 ## ⚙ Backend Development
+
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="40"/> Node.js  
+<img src="https://skillicons.dev/icons?i=express" height="40"/> Express.js  
+<img src="https://skillicons.dev/icons?i=flask" height="40"/> Flask  
+<img src="https://skillicons.dev/icons?i=fastapi" height="40"/> FastAPI  
 </p>
+
+REST APIs • JWT Authentication • OTP Authentication  
+
+---
 
 ## 🗄 Databases
+
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="40"/> MongoDB  
+<img src="https://skillicons.dev/icons?i=mysql" height="40"/> MySQL  
 </p>
+
+---
 
 ## 🤖 Machine Learning / AI / Deep Learning
+
 <p>
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
+<img src="https://skillicons.dev/icons?i=python" height="40"/> Python  
+<img src="https://skillicons.dev/icons?i=pytorch" height="40"/> PyTorch  
 </p>
 
-- Scikit-learn  
-- NLP (TF-IDF, Bag of Words, CountVectorizer)  
-- Regression & Classification  
-- Feature Engineering & Preprocessing Pipelines  
-- Model Deployment (Flask / FastAPI)  
+Scikit-learn • NLP (TF-IDF, Bag of Words, CountVectorizer)  
+Regression • Classification • Feature Engineering  
+Model Deployment (Flask / FastAPI)
+
+---
 
 ## 🧰 Tools & Platforms
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=git" height="40"/> Git  
+<img src="https://skillicons.dev/icons?i=github" height="40"/> GitHub  
+<img src="https://skillicons.dev/icons?i=postman" height="40"/> Postman  
+<img src="https://skillicons.dev/icons?i=vscode" height="40"/> VS Code  
 </p>
 
 Cloudinary • Razorpay • Vercel • Render  
@@ -58,8 +85,9 @@ Cloudinary • Razorpay • Vercel • Render
 # 🚀 Projects
 
 ## 🔹 Instagram Clone (Full Stack + Redux)
-- Secure JWT authentication  
-- Optimized Redux global state  
+
+- JWT-secured authentication  
+- Optimized global state management  
 - Cloudinary media optimization  
 - Modular scalable architecture  
 
@@ -69,37 +97,44 @@ Cloudinary • Razorpay • Vercel • Render
 ---
 
 ## 🔹 E-Commerce Platform (Client Project)
-- Razorpay payment gateway integration  
+
+- Razorpay payment integration  
 - OTP-based mobile authentication  
-- Admin dashboard with real-time management  
-- 45% improved media performance  
+- Admin dashboard  
+- 45% optimized media performance  
+
+<!-- Add Live Link Here When Available -->
 
 ---
 
 ## 🔹 Freelancer Income Prediction (Deep Learning)
+
 - PyTorch Neural Network (128 → 64 → 1)  
 - 433 engineered features  
-- Full preprocessing + scaling pipeline  
+- Complete preprocessing pipeline  
 - Flask REST API + React frontend  
-- End-to-end ML lifecycle  
 
 🔗 Live: https://incomeprediction-hwtw.onrender.com  
+<!-- Add Demo Video Link Here -->
 
 ---
 
 ## 🔹 Anime Recommendation System (NLP)
+
 - Content-based filtering  
 - Cosine similarity  
 - Optimized inference latency  
 - Flask API deployment  
 
+<!-- Add Live Link If Deployed -->
+
 ---
 
-# 🏆 Hackathons & Achievements
+# 🏆 Hackathons
 
-🥇 1st Place — IIT Delhi Hackathon (TechGyan)  
-🥉 3rd Place — Infronix Hackathon, IIIT Delhi  
-🏅 Sponsor Track Winner — Hackemon Hackathon  
+🥇 1st Place — IIT Delhi Hackathon  
+🥉 3rd Place — IIIT Delhi Hackathon  
+🏅 Sponsor Track Winner — Hackemon  
 
 ---
 
@@ -109,19 +144,17 @@ Cloudinary • Razorpay • Vercel • Render
 - Deep Learning — Simplilearn  
 - Introduction to Artificial Intelligence — Simplilearn  
 - Introduction to MERN Stack — Simplilearn  
-- Data Structures & Algorithms in Python — Simplilearn  
 - Machine Learning & Neural Networks — TechGyan  
+- Data Structures & Algorithms in Python — Simplilearn  
 
 ---
 
-# 👨‍🏫 Leadership Experience
+# 👨‍🏫 Leadership
 
-**Technical Lead — TechEra Community**
-
-✔ Reduced development cycle time by 25%  
-✔ Mentored developers in Full Stack & ML  
-✔ Scaled deployed projects from 3 to 8  
-✔ Enforced clean architecture & performance standards  
+Technical Lead — TechEra Community  
+• Reduced development cycle time by 25%  
+• Mentored developers in Full Stack & ML  
+• Enforced scalable architecture standards  
 
 ---
 
@@ -142,4 +175,4 @@ Cloudinary • Razorpay • Vercel • Render
 
 ---
 
-⭐ Building scalable systems across Web & AI. Always learning. Always shipping.
+⭐ Building scalable systems across Web & AI.
