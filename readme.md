@@ -1,9 +1,13 @@
-<!-- Animated Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=0E75B6&center=true&vCenter=true&width=800&lines=Hi+I'm+Vishal+Singh;Software+Engineer;Full+Stack+Developer;AI+%7C+ML+%7C+Deep+Learning+Engineer;Building+Scalable+Systems" />
-</p>
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Vishal Singh</h1>
 
-<h3 align="center">Software Engineer | Full Stack Developer | AI & ML Engineer</h3>
+<h3 align="center">
+🚀 Software Engineer | 🌐 Full Stack Developer | 🤖 GenAI & LLM Engineer
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=0E75B6&center=true&vCenter=true&width=900&lines=Building+Scalable+AI+Systems;Full+Stack+%2B+GenAI+Engineer;RAG+%7C+LLMs+%7C+Real-Time+Apps;Always+Learning+%2C+Always+Shipping" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wVishal007&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -11,147 +15,149 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 🎓 BCA (2023–2026) — Delhi Skill & Entrepreneurship University  
-🏆 3x Hackathon Winner  
+🏆 **3× Hackathon Winner**  
 👨‍🏫 Technical Lead — TechEra Community  
 
-I build production-ready systems across Web & AI — from scalable frontend interfaces and backend APIs to machine learning model deployment.
+I build **production-ready AI systems and scalable web platforms** — combining full-stack engineering with modern GenAI capabilities.
 
-Focused on clean architecture, performance optimization, and real-world impact.
+💡 Focus Areas:
+- 🤖 Retrieval-Augmented Generation (RAG)
+- 🧠 LLM-powered applications
+- ⚡ Real-time systems & scalable architecture
+- 🌐 End-to-end product development
 
 ---
 
-# 🛠 Technical Skills
+## 🛠 Tech Stack
 
-## 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react" height="40"/> React  
-<img src="https://skillicons.dev/icons?i=redux" height="40"/> Redux  
-<img src="https://skillicons.dev/icons?i=ts" height="40"/> TypeScript  
-<img src="https://skillicons.dev/icons?i=js" height="40"/> JavaScript  
-<img src="https://skillicons.dev/icons?i=html" height="40"/> HTML5  
-<img src="https://skillicons.dev/icons?i=css" height="40"/> CSS3  
-<img src="https://skillicons.dev/icons?i=tailwind" height="40"/> Tailwind CSS  
+### 🌐 Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,tailwind,nextjs" />
 </p>
 
 ---
 
-## ⚙ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs" height="40"/> Node.js  
-<img src="https://skillicons.dev/icons?i=express" height="40"/> Express.js  
-<img src="https://skillicons.dev/icons?i=flask" height="40"/> Flask  
-<img src="https://skillicons.dev/icons?i=fastapi" height="40"/> FastAPI  
+### ⚙️ Backend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
 </p>
 
-REST APIs • JWT Authentication • OTP Authentication  
+**REST APIs • JWT Auth • OTP Auth • Scalable Backend Systems**
 
 ---
 
-## 🗄 Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" height="40"/> MongoDB  
-<img src="https://skillicons.dev/icons?i=mysql" height="40"/> MySQL  
+### 🗄 Databases
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ---
 
-## 🤖 AI / Machine Learning / Deep Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" height="40"/> Python  
-<img src="https://skillicons.dev/icons?i=pytorch" height="40"/> PyTorch  
+### 🤖 AI / GenAI / ML
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
 </p>
 
-Scikit-learn • NLP (TF-IDF, BoW, CountVectorizer)  
-Regression • Classification • Feature Engineering  
-Model Deployment (Flask / FastAPI)
+**LLMs • RAG • NLP • Embeddings • Vector Search • Deep Learning**  
+**Scikit-learn • Feature Engineering • Model Deployment**
 
 ---
 
-# 🚀 Projects
+## 🚀 Featured Projects
 
-## 🔹 Instagram Clone (Full Stack + Redux)
+### 🔥 AI YouTube RAG Assistant
+> **Next.js • FastAPI • Chrome Extension • LLM (Mistral)**  
 
-- Secure JWT authentication  
-- Optimized Redux global state  
-- Cloudinary media optimization  
-- Modular scalable architecture  
+- Built full-stack **RAG system** to chat with YouTube videos  
+- Implemented **semantic search using embeddings & vector DB**  
+- Added **query rewriting + reranking → better accuracy**  
+- Generated **auto notes (PDF) & slides (PPT)**  
 
-🔗 Live: https://instaclone-sje7.onrender.com  
-🔗 Repo: https://github.com/wVishal007/INSTACLONE  
-
----
-
-## 🔹 E-Commerce Platform (Client Project)
-
-- Razorpay payment gateway integration  
-- OTP-based mobile authentication  
-- Admin dashboard with real-time management  
-- 45% improved media performance  
-
-<!-- Add live demo link when available -->
+🔗 GitHub: https://github.com/wVishal007/yt-rag-chatbot-extension  
 
 ---
 
-## 🔹 Freelancer Income Prediction (Deep Learning)
+### 🧠 AI Interview Copilot
+> **Next.js • MongoDB • LLM • NextAuth**
 
-- PyTorch Neural Network (128 → 64 → 1)  
+- AI-powered **mock interviews + evaluation system**  
+- Real-time **answer analysis + scoring metrics**  
+- Role-based system (student / recruiter / admin)  
+- Anti-cheat + behavioral tracking  
+
+🔗 Live: https://ai-job-copilot-one.vercel.app  
+
+---
+
+### 🌐 Blaze — Social Media Platform
+> **Next.js • TypeScript • MongoDB • Ably • Cloudinary**
+
+- Full-scale social platform (posts, reels, chat)  
+- Real-time messaging using **WebSockets (Ably)**  
+- Designed **15+ schemas for scalable architecture**  
+- Optimized media delivery with Cloudinary  
+
+🔗 Live: https://blaze-social-zeta.vercel.app/  
+
+---
+
+### 📊 Freelancer Income Prediction
+> **PyTorch • Flask • React**
+
+- Deep learning regression model (128 → 64 → 1)  
 - 433 engineered features  
-- Full preprocessing & scaling pipeline  
-- Flask REST API + React frontend  
+- Full ML pipeline + deployment  
+- Real-time prediction API  
 
 🔗 Live: https://incomeprediction-hwtw.onrender.com  
-
-<!-- Add demo video link -->
-
----
-
-## 🔹 Anime Recommendation System (NLP)
-
-- Content-based filtering  
-- Cosine similarity  
-- Optimized inference latency  
-- Flask API deployment  
-
-<!-- Add live link if deployed -->
+🔗 GitHub: https://github.com/wVishal007/IncomePrediction-NeuralNetwork-Pytorch  
 
 ---
 
-# 🏆 Hackathons
+### 🎌 Anime Recommendation System
+> **NLP • Flask • Machine Learning**
 
-🥇 1st Place — IIT Delhi Hackathon  
+- Content-based filtering using **Cosine Similarity**  
+- NLP pipeline (BoW, CountVectorizer)  
+- Optimized latency & accuracy  
+
+🔗 Live: https://anime-recommendations-lime.vercel.app/  
+
+---
+
+## 🏆 Achievements
+
+🥇 1st Place — IIT Delhi Hackathon (TechGyan)  
 🥉 3rd Place — IIIT Delhi Hackathon  
 🏅 Sponsor Track Winner — Hackemon  
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
 - AI Fundamentals — IBM  
+- Retrieval-Augmented Generation — IBM  
 - Deep Learning — Simplilearn  
-- Introduction to Artificial Intelligence — Simplilearn  
-- Introduction to MERN Stack — Simplilearn  
 - Machine Learning & Neural Networks — TechGyan  
-- Data Structures & Algorithms in Python — Simplilearn  
+- Data Structures & Algorithms — Simplilearn  
 
 ---
 
-# 👨‍🏫 Leadership
+## 👨‍🏫 Leadership
 
-Technical Lead — TechEra Community  
-• Reduced development cycle time by 25%  
-• Mentored developers in Full Stack & ML  
-• Enforced scalable architecture standards  
+**Technical Lead — TechEra Community**
+
+- 🚀 Reduced development cycle time by **25%**  
+- 📈 Improved project completion rate by **40%**  
+- 👨‍💻 Mentored developers in **Full Stack + AI**  
+- 🏗 Enforced scalable architecture practices  
 
 ---
 
-# 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=wVishal007&show_icons=true&theme=tokyonight" height="160"/>
@@ -164,12 +170,17 @@ Technical Lead — TechEra Community
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 📧 vishalsingh31879@gmail.com  
-💼 linkedin.com/in/vishal-singh-188013324  
-🌐 vishal4u.vercel.app  
+💼 https://linkedin.com/in/vishal-singh-188013324  
+🌐 https://vishal4u.vercel.app  
 
 ---
 
-⭐ Building scalable systems across Web & AI. Always learning. Always shipping.
+## ⚡ Final Note
+
+⭐ Building **scalable AI systems** that solve real-world problems  
+🚀 Blending **Full Stack + GenAI** to create impactful products  
+
+> “Code. Build. Ship. Repeat.”
