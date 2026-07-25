@@ -37,8 +37,6 @@ philosophy: "Ship systems you can defend line-by-line in an interview."
 
 I build production-grade AI systems — multi-agent pipelines, hybrid RAG engines, and autonomous workflows — alongside full-stack platforms with real-time infrastructure. I design intelligent systems at the intersection of AI/ML and backend engineering: from 13-agent research pipelines governed by custom guardrails, to citation-enforced retrieval engines, to LangGraph-driven content agents with multi-provider LLM fallback. I care about systems that scale cleanly and hold up under real interview-level scrutiny.
 
-**Currently:** Pursuing Master of Computer Applications (MCA) @ IGNOU, while shipping independent AI/full-stack projects and freelance engagements.
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00A0,50:7000FF,100:00F0FF&height=3&width=100%" />
 
 ## 🏆 Battle Log
