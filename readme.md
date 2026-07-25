@@ -1,310 +1,291 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:06B6D4&height=300&section=header&text=Vishal%20Singh&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer;AI+Engineer;Hackathon+Winner;Technical+Lead;Building+the+future+with+code" alt="Typing Animation" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=2,5,12,20,30&text=VISHAL%20SINGH&fontColor=fff&fontSize=68&animation=twinkling&fontAlignY=38&desc=Agentic%20AI%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%20Systems%20Builder&descSize=17&descAlignY=58&stroke=00F0FF&strokeWidth=1" width="100%" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-8B5CF6?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Engineer-3B82F6?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hackathon%20Winner-06B6D4?style=flat-square&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source-22C55E?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/MERN%20Stack-EC4899?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-F59E0B?style=flat-square&logo=tensorflow&logoColor=white" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=820&lines=Architecting+Multi-Agent+AI+Systems;Production-Grade+RAG+%2B+LangGraph+Pipelines;3x+Hackathon+Winner+%F0%9F%8F%86;Shipping+Systems+I+Can+Defend+Line-by-Line;Full-Stack+%2B+AI+%3D+One+Engineer" alt="Typing Animation" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wVishal007&color=8B5CF6&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
+<br/>
 
-<br />
+<a href="https://vishal4u.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F0FF&labelColor=0D1117" /></a>
+<a href="https://linkedin.com/in/vishal-singh-188013324"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0D1117" /></a>
+<a href="mailto:vishalsingh31879@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF&labelColor=0D1117" /></a>
+<a href="https://github.com/wVishal007"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117" /></a>
+<a href="https://leetcode.com/u/vishalsingh965400"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00F0FF&labelColor=0D1117" /></a>
 
-## 🚀 About Me
+<br/><br/>
 
-<p align="center">
-  <b>Building AI systems, multi-agent platforms, and scalable web applications that solve real-world problems.</b>
-</p>
+<img src="https://komarev.com/ghpvc/?username=wVishal007&color=00F0FF&style=for-the-badge&label=SYSTEM+ACCESSES" alt="Profile Views" />
 
-<br />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🧠_What_I_Build-AI_Systems_|_RAG_|_Agentic_AI_|_Full_Stack-8B5CF6?style=flat-square&labelColor=1a1a2e" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7000FF,100:FF00A0&height=3&width=100%" />
 
-I architect production-grade AI systems — from RAG pipelines and multi-agent orchestration to real-time full-stack applications. As **Technical Lead** at TechEra Community, I mentor developers and drive AI + backend initiatives that improve project delivery by 40%.
+## ⚡ whoami
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🏆_Achievements-3×_Hackathon_Winner_|_Technical_Lead-3B82F6?style=flat-square&labelColor=1a1a2e" />
-</p>
+```yaml
+name: Vishal Singh
+role: Agentic AI Engineer & Systems Architect
+status: ONLINE
+location: India (Remote-first)
+focus:
+  - Multi-Agent Systems & Autonomous Pipelines
+  - RAG Architectures & Vector Retrieval
+  - Full-Stack Systems Engineering
+  - LangChain / LangGraph Orchestration
+philosophy: "Ship systems you can defend line-by-line in an interview."
+```
 
-Recognized across IIT Delhi, IIIT Delhi, and Hackemon hackathons for building impactful technical solutions under pressure.
+I build production-grade AI systems — multi-agent pipelines, hybrid RAG engines, and autonomous workflows — alongside full-stack platforms with real-time infrastructure. I design intelligent systems at the intersection of AI/ML and backend engineering: from 13-agent research pipelines governed by custom guardrails, to citation-enforced retrieval engines, to LangGraph-driven content agents with multi-provider LLM fallback. I care about systems that scale cleanly and hold up under real interview-level scrutiny.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🌱_Current_Focus-Agentic_AI_|_Multi-Agent_Platforms_|_Production_Systems-06B6D4?style=flat-square&labelColor=1a1a2e" />
-</p>
+**Currently:** Pursuing Master of Computer Applications (MCA) @ IGNOU, while shipping independent AI/full-stack projects and freelance engagements.
 
-Deepening expertise in agentic AI workflows, scalable system architecture, and products that bridge research and production.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00A0,50:7000FF,100:00F0FF&height=3&width=100%" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/💡_Long_Term-Create_AI_Products_That_Democratize_Intelligence-EC4899?style=flat-square&labelColor=1a1a2e" />
-</p>
+## 🏆 Battle Log
 
-<br />
+<div align="center">
 
----
+| 🥇 Winner | 🥉 3rd Place | 🎯 Sponsor Track |
+|:---:|:---:|:---:|
+| **IIT Delhi Hackathon (TechGyan)** | **Infronix Hackathon, IIIT Delhi** | **Hackemon Hackathon** |
+| Led team to 1st place under time constraints | Built JanSaathi — AI govt-scheme recommender | Recognized for innovation & execution, Team Dcoders |
 
-## 🏆 Achievement Highlights
+</div>
 
-<p align="center">
-  🥇&nbsp;<img src="https://img.shields.io/badge/Winner-IIT%20Delhi%20Hackathon-8B5CF6?style=flat-square" />&nbsp;&nbsp;
-  🥉&nbsp;<img src="https://img.shields.io/badge/3rd%20Place-Infronix%20IIIT%20Delhi-3B82F6?style=flat-square" />&nbsp;&nbsp;
-  🏅&nbsp;<img src="https://img.shields.io/badge/Sponsor%20Track%20Winner-Hackemon%20Hackathon-06B6D4?style=flat-square" />&nbsp;&nbsp;
-  🎯&nbsp;<img src="https://img.shields.io/badge/Technical%20Lead-TechEra%20Community-EC4899?style=flat-square" />
-</p>
-
-<br />
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7000FF,100:FF00A0&height=3&width=100%" />
 
 ## 🛠️ Tech Arsenal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,ts,java,c,cpp" />
-  <br />
-  <sub><b>Languages</b></sub>
-</p>
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00F0FF" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css" />
-  <br />
-  <sub><b>Frontend</b></sub>
-</p>
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/Redux_Toolkit-0D1117?style=for-the-badge&logo=redux&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/Framer_Motion-0D1117?style=for-the-badge&logo=framer&logoColor=00F0FF" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,graphql" />
-  <br />
-  <sub><b>Backend</b></sub>
-</p>
+**Backend & Databases**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/Socket.io-0D1117?style=for-the-badge&logo=socketdotio&logoColor=00F0FF" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase" />
-  <br />
-  <sub><b>Databases</b></sub>
-</p>
+**Machine Learning / Deep Learning**
+<br/>
+<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00F0FF" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-  <br />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain" />
-  <img src="https://img.shields.io/badge/ChromaDB-22C55E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mistral%20AI-FF6D00?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai" />
-  <img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat-square&logo=scikitlearn" />
-  <img src="https://img.shields.io/badge/NLP-3B82F6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vector%20Search-06B6D4?style=flat-square" />
-  <br />
-  <sub><b>AI & Machine Learning</b></sub>
-</p>
+**AI / LLM Ecosystem**
+<br/>
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/ChromaDB-0D1117?style=for-the-badge&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/Mistral_AI-0D1117?style=for-the-badge&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/RAG_Pipelines-0D1117?style=for-the-badge&logoColor=00F0FF" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman" />
-  <br />
-  <sub><b>DevOps & Tools</b></sub>
-</p>
+**DevOps & Tools**
+<br/>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=00F0FF" />
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00A0,50:7000FF,100:00F0FF&height=3&width=100%" />
 
----
+## 🚀 Featured Builds
 
-## 📌 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔬 ResearchOS
-**Autonomous AI Research Platform** — 13-agent pipeline with RAG, SSE streaming, and auto-correction.
+**Autonomous AI Research Platform**
 
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain" />
-<img src="https://img.shields.io/badge/Mistral%20AI-FF6D00?style=flat-square" />
-<img src="https://img.shields.io/badge/ChromaDB-22C55E?style=flat-square" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" />
-<img src="https://img.shields.io/badge/React%20Flow-FF0072?style=flat-square&logo=react" />
+13-agent pipeline enforced by a custom PipelineGuard — Planner → Researcher → FactChecker → Synthesis → Report → Validator → Debate.
+- RAG on ChromaDB with cosine similarity + multi-hop retrieval
+- Real-time SSE streaming → React Flow visualization
+- Plagiarism detection, auto-correction, CSV-to-ML code gen
 
-✦ 13-agent autonomous pipeline with PipelineGuard enforcement  
-✦ RAG with vector search, multi-hop retrieval, cosine similarity  
-✦ Real-time SSE streaming with React Flow graph visualization  
-✦ Plagiarism detection, auto-correction, CSV insights & ML code generation  
-✦ Academic paper discovery across 7+ sources
+`Next.js` `LangChain` `Mistral AI` `ChromaDB` `MongoDB`
 
-<a href="https://research-os-three.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-8B5CF6?style=flat-square" /></a>
+[🔗 Live Demo](https://research-os-three.vercel.app/)
 
-<br />
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Content Generator Platform
+**Agentic AI Content System**
+
+LangGraph StateGraph workflow: generates → scores 0–10 → iteratively optimizes with a 4-provider LLM fallback chain (Groq → Mistral → Gemini → NVIDIA).
+- Human-in-the-loop approval queue + A/B testing engine
+- Multi-platform generation (LinkedIn, X, Instagram) with 20+ language translation
+- FastAPI + PostgreSQL + Redis, Dockerized
+
+`LangGraph` `FastAPI` `PostgreSQL` `Redis` `Docker`
+
+[🔗 Live Demo](https://content-generator-agent-pi.vercel.app/) · [💻 Source](https://github.com/wVishal007/content_generator_agent)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🧠 YT Intelligence Engine
-**Hybrid RAG System** — Conversational AI over YouTube transcripts with citation and hybrid retrieval.
+**Hybrid RAG with Citation**
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain" />
-<img src="https://img.shields.io/badge/ChromaDB-22C55E?style=flat-square" />
-<img src="https://img.shields.io/badge/Mistral%20AI-FF6D00?style=flat-square" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi" />
-<img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=flat-square&logo=googlechrome" />
+Conversational AI over YouTube transcripts with hybrid dense + keyword retrieval.
+- Semantic search + BM25 + cross-encoder reranking
+- Multi-turn memory, context-aware question rewriting
+- Timestamped citations, grounded hallucination control
 
-✦ Hybrid retrieval combining semantic search + BM25 keyword scoring  
-✦ Cross-encoder reranking for precision improvement  
-✦ Multi-turn conversation memory with context-aware rewriting  
-✦ Timestamped citation enforcement, hallucination control  
-✦ Chrome extension for automatic transcript extraction
+`LangChain` `ChromaDB` `Mistral AI` `Chrome Extension`
 
-<a href="https://github.com/wVishal007/yt-rag-chatbot-extension"><img src="https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github" /></a>
+[💻 Source](https://github.com/wVishal007/yt-rag-chatbot-extension)
 
-<br />
+</td>
+<td width="50%" valign="top">
 
 ### 💼 AI Interview Copilot
-**AI-Powered Interview Platform** — Dual LLM architecture with real-time evaluation and dashboards.
+**Dual-LLM Interview Platform**
 
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google" />
-<img src="https://img.shields.io/badge/NextAuth-000?style=flat-square" />
+Dynamic question generation across technical, behavioral, and system-design domains.
+- Real-time evaluation with confidence scoring
+- Dual-role architecture (student/recruiter) with RBAC
+- 12 MongoDB models, bcrypt + OTP auth, Zod validation
 
-✦ Dynamic question generation across technical, behavioral, system design  
-✦ Real-time evaluation with confidence scoring, filler word detection  
-✦ Dual-role architecture (student / recruiter), role-based access control  
-✦ Anti-cheat monitoring, structured performance analytics  
-✦ 12 MongoDB models supporting interviews, jobs, assessments
+`Next.js 16` `MongoDB` `OpenAI` `Gemini`
 
-<a href="https://ai-job-copilot-one.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-8B5CF6?style=flat-square" /></a>
+[🔗 Live Demo](https://ai-job-copilot-one.vercel.app)
 
-<br />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🛍️ Ethereal Commerce
-**Luxury E-Commerce Platform** — Curated boutique with personalization engine and admin suite.
+**Luxury E-Commerce Platform**
 
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" />
-<img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay" />
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss" />
+Curated boutique storefront with a personalization engine and full admin suite.
+- Style Quiz onboarding with tag-based dynamic curation
+- Razorpay payments with real-time verification
+- Lookbook management, dynamic size guides (cm/in)
 
-✦ Style Quiz aesthetic onboarding with tag-based dynamic curation  
-✦ Razorpay payment gateway with real-time payment verification  
-✦ Admin curation suite with Lookbook management, dynamic size guides  
-✦ Quick View modals, advanced filters, out-of-the-box pairings
+`Next.js 15` `React 19` `MongoDB` `Razorpay`
 
-<a href="https://ethix-nine.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-8B5CF6?style=flat-square" /></a>
+[🔗 Live Demo](https://ethix-nine.vercel.app/)
 
-<br />
+</td>
+<td width="50%" valign="top">
 
 ### 🌐 Blaze
-**Social Media Platform** — Full-scale platform with real-time chat, stories, reels, 15+ schemas.
+**Social Media Platform**
 
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" />
-<img src="https://img.shields.io/badge/Ably-FF6C2C?style=flat-square&logo=ably" />
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary" />
+Full-scale social platform: posts, stories, reels, real-time chat — 15+ schema data model.
+- Real-time chat/notifications via WebSockets (Ably)
+- Stories with 24hr expiry, personalized feed
+- NextAuth with Google OAuth, explore feed
 
-✦ Real-time chat and notifications via WebSockets (Ably)  
-✦ Stories with 24hr expiry, reels, personalized feed algorithm  
-✦ 15+ MongoDB schemas supporting complex social graph  
-✦ NextAuth with Google OAuth, hashtag search, explore feed
+`Next.js` `TypeScript` `MongoDB` `Ably`
 
-<a href="https://blaze-social-zeta.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-8B5CF6?style=flat-square" /></a>
+[🔗 Live Demo](https://blaze-social-zeta.vercel.app/)
 
-<br />
+</td>
+</tr>
+</table>
 
-### 📈 Freelancer Income Prediction
-**Deep Learning Regression** — Neural network with 433-dim features, Flask API, sub-100ms inference.
+<details>
+<summary><b>📈 More Projects — Expand</b></summary>
+<br/>
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch" />
-<img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" />
-<img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat-square&logo=scikitlearn" />
+**Freelancer Income Prediction** — *Deep Learning Regression*
+Three-layer neural network (128 → 64 → 1) in PyTorch, trained with Adam over 350 epochs. 433-dimensional feature space via One-Hot Encoding + StandardScaler, with dynamic feature reindexing for consistent inference. Deployed as a Flask API with real-time predictions through a React frontend.
+`PyTorch` `Flask` `Pandas` `Scikit-learn` `React`
+[🔗 Live Demo](https://incomeprediction-hwtw.onrender.com) · [💻 Source](https://github.com/wVishal007/IncomePrediction-NeuralNetwork-Pytorch)
 
-✦ Three-layer neural network (128→64→1), ReLU, Adam optimization  
-✦ 433-dimensional feature space, One-Hot Encoding, normalization  
-✦ 89% prediction accuracy, dynamic feature reindexing  
-✦ Production Flask API, real-time inference under 100ms
+<br/>
 
-<a href="https://incomeprediction-hwtw.onrender.com"><img src="https://img.shields.io/badge/Live%20Demo-8B5CF6?style=flat-square" /></a>
-<a href="https://github.com/wVishal007/IncomePrediction-NeuralNetwork-Pytorch"><img src="https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github" /></a>
+**Anime Recommendation System** — *NLP Engine*
+Content-based recommendation engine using CountVectorizer and cosine similarity across 1000+ records. Pre-computed similarity matrices with NumPy vectorized operations. Deployed on Vercel with Flask backend.
+`Python` `Flask` `Scikit-learn` `NumPy`
+[🔗 Live Demo](https://anime-recommendations-lime.vercel.app/)
 
-<br />
+<br/>
 
----
+**Sentiment Analysis on IMDB** — *NLP Classification*
+Binary sentiment classification on 50,000 movie reviews with TF-IDF vectorization, Logistic Regression, Naive Bayes, and an NLTK preprocessing pipeline.
+`Python` `Scikit-learn` `TF-IDF` `NLTK`
 
-## 🎓 Certifications
+<br/>
 
-### **IBM**
+**Real-Time Chat Application** — *Full Stack*
+Private and group messaging with read receipts, online status tracking, and message encryption; backend architecture handling multiple concurrent connections with optimized queries.
+`React` `Node.js` `Socket.io` `MongoDB`
+[💻 Source](https://github.com/wVishal007)
 
-<p>
-  <img src="https://img.shields.io/badge/AI%20Fundamentals-8B5CF6?style=flat-square&logo=ibm" />
-  <img src="https://img.shields.io/badge/RAG%20for%20Enhanced%20AI%20Outputs-8B5CF6?style=flat-square&logo=ibm" />
-  <img src="https://img.shields.io/badge/Make%20Agentic%20AI%20Work-8B5CF6?style=flat-square&logo=ibm" />
-  <img src="https://img.shields.io/badge/Web%20Development%20Fundamentals-8B5CF6?style=flat-square&logo=ibm" />
-</p>
+</details>
 
-### **AI & Machine Learning**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7000FF,100:FF00A0&height=3&width=100%" />
 
-<p>
-  <img src="https://img.shields.io/badge/Deep%20Learning-3B82F6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Machine%20Learning%20%26%20Neural%20Networks-3B82F6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Introduction%20to%20AI-3B82F6?style=flat-square" />
-</p>
+## 📜 Certifications
 
-### **Programming**
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Python%20Programming-06B6D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/DSA%20in%20Python-06B6D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/TypeScript%20Basics-06B6D4?style=flat-square" />
-</p>
+| IBM | AI & ML | Programming | Web |
+|:---|:---|:---|:---|
+| AI Fundamentals | Deep Learning | Python Programming | Intro to MERN Stack |
+| RAG for Enhanced AI Outputs | ML & Neural Networks | DSA in Python | Web Dev Fundamentals |
+| Make Agentic AI Work | | TypeScript Basics | |
 
-### **Development & Security**
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Introduction%20to%20MERN%20Stack-22C55E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Ethical%20Hacking%20101-22C55E?style=flat-square" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00A0,50:7000FF,100:00F0FF&height=3&width=100%" />
 
-<br />
+## 📊 System Analytics
 
----
+<div align="center">
 
-## 📊 GitHub Analytics
+<img src="https://github-readme-stats.vercel.app/api?username=wVishal007&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=7000FF&text_color=FFFFFF&border_radius=12" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wVishal007&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=FF00A0&currStreakLabel=00F0FF&border_radius=12" height="170" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wVishal007&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=3B82F6&text_color=FFFFFF" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wVishal007&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=3B82F6&currStreakLabel=8B5CF6" height="170" />
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wVishal007&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=3B82F6&point=8B5CF6" width="95%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wVishal007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&border_radius=12" width="48%" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/wVishal007/wVishal007/output/github-contribution-grid-snake.svg" width="95%" alt="Snake Contribution Animation" />
-</p>
+<br/><br/>
 
-<br />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wVishal007&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F0FF&line=7000FF&point=FF00A0&area=true&area_color=7000FF" width="95%" />
 
----
+<br/><br/>
 
-## 🤝 Connect
+<img src="https://raw.githubusercontent.com/wVishal007/wVishal007/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution Snake" />
 
-<p align="center">
-  <a href="https://vishal4u.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/vishal-singh-188013324"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/wVishal007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:vishalsingh31879@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/vishalsingh965400"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-</p>
+</div>
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7000FF,100:FF00A0&height=3&width=100%" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:8B5CF6&height=150&section=footer" width="100%" />
-</p>
+<div align="center">
+
+### 🤝 Let's Build Something Extraordinary
+
+<a href="https://vishal4u.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F0FF&labelColor=0D1117" /></a>
+<a href="https://linkedin.com/in/vishal-singh-188013324"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0D1117" /></a>
+<a href="https://github.com/wVishal007"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117" /></a>
+<a href="mailto:vishalsingh31879@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF&labelColor=0D1117" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7000FF,100:FF00A0&height=150&section=footer&animation=twinkling" width="100%" />
+
+</div>
