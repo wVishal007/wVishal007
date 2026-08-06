@@ -10,7 +10,6 @@
 <a href="https://linkedin.com/in/vishal-singh-188013324"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0D1117" /></a>
 <a href="mailto:vishalsingh31879@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF&labelColor=0D1117" /></a>
 <a href="https://github.com/wVishal007"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117" /></a>
-<a href="https://leetcode.com/u/vishalsingh965400"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00F0FF&labelColor=0D1117" /></a>
 
 <br/><br/>
 
@@ -24,29 +23,58 @@
 
 <div align="center">
 
-<div style="display:inline-block;text-align:left;background:#0b1220;border:1px solid rgba(0,240,255,0.30);border-radius:12px;max-width:680px;width:100%;box-shadow:0 0 30px rgba(112,0,255,0.25);overflow:hidden;">
+<table style="border:0;">
+<tr>
+<td width="62%" valign="top" style="border:0;">
 
-<div style="background:#0D1117;border-bottom:1px solid rgba(0,240,255,0.15);padding:10px 14px;font-family:'JetBrains Mono',monospace;font-size:12px;color:#8892b0;">
+<div style="background:#0b1220;border:1px solid rgba(0,240,255,0.30);border-radius:12px;box-shadow:0 0 30px rgba(112,0,255,0.25);overflow:hidden;">
+
+<div style="background:#0D1117;border-bottom:1px solid rgba(0,240,255,0.15);padding:10px 14px;">
 <span style="display:inline-block;width:11px;height:11px;border-radius:50%;background:#FF5F56;"></span>&nbsp;
 <span style="display:inline-block;width:11px;height:11px;border-radius:50%;background:#FFBD2E;"></span>&nbsp;
-<span style="display:inline-block;width:11px;height:11px;border-radius:50%;background:#27C93F;"></span>&nbsp;&nbsp;
-vishal@github: ~
+<span style="display:inline-block;width:11px;height:11px;border-radius:50%;background:#27C93F;"></span>
 </div>
 
-```yaml
-name: Vishal Singh
-role: Agentic AI Engineer & Systems Architect
-status: ONLINE
-location: India (Remote-first)
-focus:
-  - Multi-Agent Systems & Autonomous Pipelines
-  - RAG Architectures & Vector Retrieval
-  - Full-Stack Systems Engineering
-  - LangChain / LangGraph Orchestration
-philosophy: "Ship systems you can defend line-by-line in an interview."
-```
+<pre style="background:transparent;font-family:'JetBrains Mono',monospace;font-size:13px;line-height:1.7;color:#8892b0;margin:14px 16px;">
+<span style="color:#7000FF;">~</span> <span style="color:#00F0FF;">$ whoami</span>
+
+<span style="color:#00F0FF;">name</span><span style="color:#8892b0;">:</span> <span style="color:#FF00A0;">Vishal Singh</span>
+<span style="color:#00F0FF;">role</span><span style="color:#8892b0;">:</span> <span style="color:#FFFFFF;">Agentic AI Engineer &amp; Systems Architect</span>
+<span style="color:#00F0FF;">status</span><span style="color:#8892b0;">:</span> <span style="color:#27C93F;">● ONLINE</span>
+<span style="color:#00F0FF;">location</span><span style="color:#8892b0;">:</span> <span style="color:#FFFFFF;">India (Remote-first)</span>
+<span style="color:#00F0FF;">focus</span><span style="color:#8892b0;">:</span>
+  <span style="color:#FF00A0;">-</span> Multi-Agent Systems &amp; Autonomous Pipelines
+  <span style="color:#FF00A0;">-</span> RAG Architectures &amp; Vector Retrieval
+  <span style="color:#FF00A0;">-</span> Full-Stack Systems Engineering
+  <span style="color:#FF00A0;">-</span> LangChain / LangGraph Orchestration
+<span style="color:#00F0FF;">philosophy</span><span style="color:#8892b0;">:</span> <span style="color:#FF00A0;">"Ship systems you can defend line-by-line in an interview."</span>
+</pre>
 
 </div>
+
+</td>
+<td width="38%" valign="middle" align="center" style="border:0;">
+
+<div style="text-align:left;background:linear-gradient(160deg,#0b1220 0%,#170b2e 100%);border:1px solid rgba(255,0,160,0.30);border-radius:12px;box-shadow:0 0 30px rgba(0,240,255,0.18);padding:18px 20px;">
+
+<div style="font-family:'JetBrains Mono',monospace;font-size:12px;color:#FF00A0;letter-spacing:2px;margin-bottom:12px;border-bottom:1px solid rgba(255,0,160,0.25);padding-bottom:8px;">⚡ QUICK SPECS</div>
+
+<table style="border:0;">
+<tr><td style="border:0;padding:4px 8px 4px 0;color:#00F0FF;">🟢</td><td style="border:0;padding:4px 0;"><b style="color:#27C93F;">ONLINE</b> <span style="color:#8892b0;">— open to collabs</span></td></tr>
+<tr><td style="border:0;padding:4px 8px 4px 0;color:#00F0FF;">📍</td><td style="border:0;padding:4px 0;color:#FFFFFF;">India <span style="color:#8892b0;">(Remote-first)</span></td></tr>
+<tr><td style="border:0;padding:4px 8px 4px 0;color:#00F0FF;">🎯</td><td style="border:0;padding:4px 0;color:#FFFFFF;">Multi-Agent AI · RAG · Full-Stack</td></tr>
+<tr><td style="border:0;padding:4px 8px 4px 0;color:#00F0FF;">🏆</td><td style="border:0;padding:4px 0;color:#FFFFFF;"><b style="color:#FF00A0;">3x</b> <span style="color:#8892b0;">Hackathon Winner</span></td></tr>
+<tr><td style="border:0;padding:4px 8px 4px 0;color:#00F0FF;">🔬</td><td style="border:0;padding:4px 0;color:#FFFFFF;"><b style="color:#FF00A0;">6</b> <span style="color:#8892b0;">Featured Builds</span></td></tr>
+<tr><td style="border:0;padding:4px 8px 4px 0;color:#00F0FF;">📜</td><td style="border:0;padding:4px 0;color:#FFFFFF;"><b style="color:#FF00A0;">10+</b> <span style="color:#8892b0;">Certifications</span></td></tr>
+<tr><td style="border:0;padding:4px 8px 4px 0;color:#00F0FF;">🧑‍🏫</td><td style="border:0;padding:4px 0;color:#FFFFFF;"><b style="color:#FF00A0;">20+</b> <span style="color:#8892b0;">Developers Mentored</span></td></tr>
+<tr><td style="border:0;padding:4px 8px 4px 0;color:#00F0FF;">✉️</td><td style="border:0;padding:4px 0;"><a href="mailto:vishalsingh31879@gmail.com" style="color:#8892b0;text-decoration:none;">vishalsingh31879@gmail.com</a></td></tr>
+</table>
+
+</div>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -299,10 +327,6 @@ Private and group messaging with read receipts, online status tracking, and mess
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wVishal007&theme=radical" width="48%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wVishal007&theme=radical" width="48%" />
-
-<br/><br/>
-
-<img src="https://leetcard.jacoblin.cool/vishalsingh965400?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12" width="72%" />
 
 <br/><br/>
 
