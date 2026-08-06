@@ -22,12 +22,16 @@
 
 ## ⚡ whoami
 
-<table>
-<tr>
-<td width="30%" align="center" style="border:0;">
-<img src="assets/mypic-5.png" width="220" style="border-radius:50%; border:3px solid #00F0FF; box-shadow: 0 0 25px rgba(0,240,255,0.35);" />
-</td>
-<td width="70%" style="border:0;">
+<div align="center">
+
+<div style="display:inline-block;text-align:left;background:#0b1220;border:1px solid rgba(0,240,255,0.30);border-radius:12px;max-width:680px;width:100%;box-shadow:0 0 30px rgba(112,0,255,0.25);overflow:hidden;">
+
+<div style="background:#0D1117;border-bottom:1px solid rgba(0,240,255,0.15);padding:10px 14px;font-family:'JetBrains Mono',monospace;font-size:12px;color:#8892b0;">
+<span style="display:inline-block;width:11px;height:11px;border-radius:50%;background:#FF5F56;"></span>&nbsp;
+<span style="display:inline-block;width:11px;height:11px;border-radius:50%;background:#FFBD2E;"></span>&nbsp;
+<span style="display:inline-block;width:11px;height:11px;border-radius:50%;background:#27C93F;"></span>&nbsp;&nbsp;
+vishal@github: ~
+</div>
 
 ```yaml
 name: Vishal Singh
@@ -42,9 +46,11 @@ focus:
 philosophy: "Ship systems you can defend line-by-line in an interview."
 ```
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
+
+<br/>
 
 I build production-grade AI systems — multi-agent pipelines, hybrid RAG engines, and autonomous workflows — alongside full-stack platforms with real-time infrastructure. I design intelligent systems at the intersection of AI/ML and backend engineering: from 13-agent research pipelines governed by custom guardrails, to citation-enforced retrieval engines, to LangGraph-driven content agents with multi-provider LLM fallback. I care about systems that scale cleanly and hold up under real interview-level scrutiny.
 
@@ -56,7 +62,7 @@ I build production-grade AI systems — multi-agent pipelines, hybrid RAG engine
 
 | 🥇 Winner | 🥉 3rd Place | 🎯 Sponsor Track |
 |:---:|:---:|:---:|
-| <img src="assets/hackathon-wins/iit.png" width="190" style="border-radius:10px;" /> | <img src="assets/hackathon-wins/infronix.png" width="190" style="border-radius:10px;" /> | <img src="assets/hackathon-wins/shebuilds.png" width="190" style="border-radius:10px;" /> |
+| <img src="assets/hackathon-wins/iit.png" width="190" style="border-radius:10px; border:1px solid rgba(0,240,255,0.25);" /> | <img src="assets/hackathon-wins/infronix.png" width="190" style="border-radius:10px; border:1px solid rgba(255,0,160,0.25);" /> | <img src="assets/hackathon-wins/shebuilds.png" width="190" style="border-radius:10px; border:1px solid rgba(112,0,255,0.30);" /> |
 | **IIT Delhi Hackathon (TechGyan)** | **Infronix Hackathon, IIIT Delhi** | **Hackemon Hackathon** |
 | Led team to 1st place under time constraints | Built JanSaathi — AI govt-scheme recommender | Recognized for innovation & execution, Team Dcoders |
 
@@ -66,53 +72,14 @@ I build production-grade AI systems — multi-agent pipelines, hybrid RAG engine
 
 ## 🛠️ Tech Arsenal
 
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00F0FF" />
-
-**Frontend**
-<br/>
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/Redux_Toolkit-0D1117?style=for-the-badge&logo=redux&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/Framer_Motion-0D1117?style=for-the-badge&logo=framer&logoColor=00F0FF" />
-
-**Backend & Databases**
-<br/>
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/Socket.io-0D1117?style=for-the-badge&logo=socketdotio&logoColor=00F0FF" />
-
-**Machine Learning / Deep Learning**
-<br/>
-<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00F0FF" />
-
-**AI / LLM Ecosystem**
-<br/>
-<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/ChromaDB-0D1117?style=for-the-badge&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/Mistral_AI-0D1117?style=for-the-badge&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/RAG_Pipelines-0D1117?style=for-the-badge&logoColor=00F0FF" />
-
-**DevOps & Tools**
-<br/>
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=00F0FF" />
+| Category | Stack |
+|:---|:---|
+| **Languages** | <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F0FF" /> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00F0FF" /> <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00F0FF" /> <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00F0FF" /> <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00F0FF" /> |
+| **Frontend** | <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=00F0FF" /> <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00F0FF" /> <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00F0FF" /> <img src="https://img.shields.io/badge/Redux_Toolkit-0D1117?style=for-the-badge&logo=redux&logoColor=00F0FF" /> <img src="https://img.shields.io/badge/Framer_Motion-0D1117?style=for-the-badge&logo=framer&logoColor=00F0FF" /> |
+| **Backend & Databases** | <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00F0FF" /> <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=00F0FF" /> <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00F0FF" /> <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00F0FF" /> <img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=00F0FF" /> <img src="https://img.shields.io/badge/Socket.io-0D1117?style=for-the-badge&logo=socketdotio&logoColor=00F0FF" /> |
+| **Machine Learning / Deep Learning** | <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=00F0FF" /> <img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=00F0FF" /> <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00F0FF" /> <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00F0FF" /> |
+| **AI / LLM Ecosystem** | <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logoColor=00F0FF" /> <img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logoColor=00F0FF" /> <img src="https://img.shields.io/badge/ChromaDB-0D1117?style=for-the-badge&logoColor=00F0FF" /> <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=00F0FF" /> <img src="https://img.shields.io/badge/Mistral_AI-0D1117?style=for-the-badge&logoColor=00F0FF" /> <img src="https://img.shields.io/badge/RAG_Pipelines-0D1117?style=for-the-badge&logoColor=00F0FF" /> |
+| **DevOps & Tools** | <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00F0FF" /> <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00F0FF" /> <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=00F0FF" /> <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=00F0FF" /> |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00A0,50:7000FF,100:00F0FF&height=3&width=100%" />
 
@@ -126,6 +93,8 @@ I build production-grade AI systems — multi-agent pipelines, hybrid RAG engine
 <b style="font-size:15px;color:#00F0FF;">🔬 RESEARCHOS</b><br/>
 <span style="font-size:12px;color:#8892b0;">Autonomous AI Research Platform</span>
 </div>
+
+<p align="center"><img src="assets/project/research-os/1.png" width="92%" style="border-radius:8px; border:1px solid rgba(112,0,255,0.2);" /></p>
 
 13-agent pipeline enforced by a custom PipelineGuard — Planner → Researcher → FactChecker → Synthesis → Report → Validator → Debate.
 - RAG on ChromaDB with cosine similarity + multi-hop retrieval
@@ -143,6 +112,8 @@ I build production-grade AI systems — multi-agent pipelines, hybrid RAG engine
 <b style="font-size:15px;color:#00F0FF;">⚡ CONTENT GENERATOR PLATFORM</b><br/>
 <span style="font-size:12px;color:#8892b0;">Agentic AI Content System</span>
 </div>
+
+<p align="center"><img src="assets/project/content-generator/1.png" width="92%" style="border-radius:8px; border:1px solid rgba(112,0,255,0.2);" /></p>
 
 LangGraph StateGraph workflow: generates → scores 0–10 → iteratively optimizes with a 4-provider LLM fallback chain (Groq → Mistral → Gemini → NVIDIA).
 - Human-in-the-loop approval queue + A/B testing engine
@@ -163,7 +134,7 @@ LangGraph StateGraph workflow: generates → scores 0–10 → iteratively optim
 <span style="font-size:12px;color:#8892b0;">Hybrid RAG with Citation</span>
 </div>
 
-<p align="center"><img src="assets/project/youtube-rag/1.png" width="92%" style="border-radius:8px; border:1px solid #7000FF33;" /></p>
+<p align="center"><img src="assets/project/youtube-rag/1.png" width="92%" style="border-radius:8px; border:1px solid rgba(112,0,255,0.2);" /></p>
 
 Conversational AI over YouTube transcripts with hybrid dense + keyword retrieval.
 - Semantic search + BM25 + cross-encoder reranking
@@ -181,6 +152,8 @@ Conversational AI over YouTube transcripts with hybrid dense + keyword retrieval
 <b style="font-size:15px;color:#00F0FF;">💼 AI INTERVIEW COPILOT</b><br/>
 <span style="font-size:12px;color:#8892b0;">Dual-LLM Interview Platform</span>
 </div>
+
+<p align="center"><img src="assets/project/ai-interview-copilot/1.png" width="92%" style="border-radius:8px; border:1px solid rgba(112,0,255,0.2);" /></p>
 
 Dynamic question generation across technical, behavioral, and system-design domains.
 - Real-time evaluation with confidence scoring
@@ -201,7 +174,7 @@ Dynamic question generation across technical, behavioral, and system-design doma
 <span style="font-size:12px;color:#8892b0;">Luxury E-Commerce Platform</span>
 </div>
 
-<p align="center"><img src="assets/project/ecommerce-site/1.png" width="92%" style="border-radius:8px; border:1px solid #7000FF33;" /></p>
+<p align="center"><img src="assets/project/ecommerce-site/1.png" width="92%" style="border-radius:8px; border:1px solid rgba(112,0,255,0.2);" /></p>
 
 Curated boutique storefront with a personalization engine and full admin suite.
 - Style Quiz onboarding with tag-based dynamic curation
@@ -219,6 +192,8 @@ Curated boutique storefront with a personalization engine and full admin suite.
 <b style="font-size:15px;color:#00F0FF;">🌐 BLAZE</b><br/>
 <span style="font-size:12px;color:#8892b0;">Social Media Platform</span>
 </div>
+
+<p align="center"><img src="assets/project/blaze/1.png" width="92%" style="border-radius:8px; border:1px solid rgba(112,0,255,0.2);" /></p>
 
 Full-scale social platform: posts, stories, reels, real-time chat — 15+ schema data model.
 - Real-time chat/notifications via WebSockets (Ably)
@@ -308,12 +283,26 @@ Private and group messaging with read receipts, online status tracking, and mess
 
 <br/><br/>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wVishal007&theme=radical" width="95%" />
+
+<br/><br/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=wVishal007&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=7000FF&text_color=FFFFFF&border_radius=12" height="170" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wVishal007&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=FF00A0&currStreakLabel=00F0FF&border_radius=12" height="170" />
 
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wVishal007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&border_radius=12" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wVishal007&theme=radical&utcOffset=5.5" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wVishal007&theme=radical" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wVishal007&theme=radical" width="48%" />
+
+<br/><br/>
+
+<img src="https://leetcard.jacoblin.cool/vishalsingh965400?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12" width="72%" />
 
 <br/><br/>
 
