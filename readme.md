@@ -22,6 +22,13 @@
 
 ## ⚡ whoami
 
+<table>
+<tr>
+<td width="30%" align="center" style="border:0;">
+<img src="assets/mypic-5.png" width="220" style="border-radius:50%; border:3px solid #00F0FF; box-shadow: 0 0 25px rgba(0,240,255,0.35);" />
+</td>
+<td width="70%" style="border:0;">
+
 ```yaml
 name: Vishal Singh
 role: Agentic AI Engineer & Systems Architect
@@ -35,6 +42,10 @@ focus:
 philosophy: "Ship systems you can defend line-by-line in an interview."
 ```
 
+</td>
+</tr>
+</table>
+
 I build production-grade AI systems — multi-agent pipelines, hybrid RAG engines, and autonomous workflows — alongside full-stack platforms with real-time infrastructure. I design intelligent systems at the intersection of AI/ML and backend engineering: from 13-agent research pipelines governed by custom guardrails, to citation-enforced retrieval engines, to LangGraph-driven content agents with multi-provider LLM fallback. I care about systems that scale cleanly and hold up under real interview-level scrutiny.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00A0,50:7000FF,100:00F0FF&height=3&width=100%" />
@@ -45,6 +56,7 @@ I build production-grade AI systems — multi-agent pipelines, hybrid RAG engine
 
 | 🥇 Winner | 🥉 3rd Place | 🎯 Sponsor Track |
 |:---:|:---:|:---:|
+| <img src="assets/hackathon-wins/iit.png" width="190" style="border-radius:10px;" /> | <img src="assets/hackathon-wins/infronix.png" width="190" style="border-radius:10px;" /> | <img src="assets/hackathon-wins/shebuilds.png" width="190" style="border-radius:10px;" /> |
 | **IIT Delhi Hackathon (TechGyan)** | **Infronix Hackathon, IIIT Delhi** | **Hackemon Hackathon** |
 | Led team to 1st place under time constraints | Built JanSaathi — AI govt-scheme recommender | Recognized for innovation & execution, Team Dcoders |
 
@@ -110,8 +122,10 @@ I build production-grade AI systems — multi-agent pipelines, hybrid RAG engine
 <tr>
 <td width="50%" valign="top">
 
-### 🔬 ResearchOS
-**Autonomous AI Research Platform**
+<div align="center" style="background:linear-gradient(135deg,#0b1220 0%,#170b2e 100%);border:1px solid rgba(0,240,255,0.25);border-radius:10px;padding:12px 10px;margin-bottom:12px;">
+<b style="font-size:15px;color:#00F0FF;">🔬 RESEARCHOS</b><br/>
+<span style="font-size:12px;color:#8892b0;">Autonomous AI Research Platform</span>
+</div>
 
 13-agent pipeline enforced by a custom PipelineGuard — Planner → Researcher → FactChecker → Synthesis → Report → Validator → Debate.
 - RAG on ChromaDB with cosine similarity + multi-hop retrieval
@@ -125,8 +139,10 @@ I build production-grade AI systems — multi-agent pipelines, hybrid RAG engine
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Content Generator Platform
-**Agentic AI Content System**
+<div align="center" style="background:linear-gradient(135deg,#0b1220 0%,#170b2e 100%);border:1px solid rgba(0,240,255,0.25);border-radius:10px;padding:12px 10px;margin-bottom:12px;">
+<b style="font-size:15px;color:#00F0FF;">⚡ CONTENT GENERATOR PLATFORM</b><br/>
+<span style="font-size:12px;color:#8892b0;">Agentic AI Content System</span>
+</div>
 
 LangGraph StateGraph workflow: generates → scores 0–10 → iteratively optimizes with a 4-provider LLM fallback chain (Groq → Mistral → Gemini → NVIDIA).
 - Human-in-the-loop approval queue + A/B testing engine
@@ -142,8 +158,12 @@ LangGraph StateGraph workflow: generates → scores 0–10 → iteratively optim
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 YT Intelligence Engine
-**Hybrid RAG with Citation**
+<div align="center" style="background:linear-gradient(135deg,#0b1220 0%,#170b2e 100%);border:1px solid rgba(0,240,255,0.25);border-radius:10px;padding:12px 10px;margin-bottom:12px;">
+<b style="font-size:15px;color:#00F0FF;">🧠 YT INTELLIGENCE ENGINE</b><br/>
+<span style="font-size:12px;color:#8892b0;">Hybrid RAG with Citation</span>
+</div>
+
+<p align="center"><img src="assets/project/youtube-rag/1.png" width="92%" style="border-radius:8px; border:1px solid #7000FF33;" /></p>
 
 Conversational AI over YouTube transcripts with hybrid dense + keyword retrieval.
 - Semantic search + BM25 + cross-encoder reranking
@@ -157,8 +177,10 @@ Conversational AI over YouTube transcripts with hybrid dense + keyword retrieval
 </td>
 <td width="50%" valign="top">
 
-### 💼 AI Interview Copilot
-**Dual-LLM Interview Platform**
+<div align="center" style="background:linear-gradient(135deg,#0b1220 0%,#170b2e 100%);border:1px solid rgba(0,240,255,0.25);border-radius:10px;padding:12px 10px;margin-bottom:12px;">
+<b style="font-size:15px;color:#00F0FF;">💼 AI INTERVIEW COPILOT</b><br/>
+<span style="font-size:12px;color:#8892b0;">Dual-LLM Interview Platform</span>
+</div>
 
 Dynamic question generation across technical, behavioral, and system-design domains.
 - Real-time evaluation with confidence scoring
@@ -174,8 +196,12 @@ Dynamic question generation across technical, behavioral, and system-design doma
 <tr>
 <td width="50%" valign="top">
 
-### 🛍️ Ethereal Commerce
-**Luxury E-Commerce Platform**
+<div align="center" style="background:linear-gradient(135deg,#0b1220 0%,#170b2e 100%);border:1px solid rgba(0,240,255,0.25);border-radius:10px;padding:12px 10px;margin-bottom:12px;">
+<b style="font-size:15px;color:#00F0FF;">🛍️ ETHEREAL COMMERCE</b><br/>
+<span style="font-size:12px;color:#8892b0;">Luxury E-Commerce Platform</span>
+</div>
+
+<p align="center"><img src="assets/project/ecommerce-site/1.png" width="92%" style="border-radius:8px; border:1px solid #7000FF33;" /></p>
 
 Curated boutique storefront with a personalization engine and full admin suite.
 - Style Quiz onboarding with tag-based dynamic curation
@@ -189,8 +215,10 @@ Curated boutique storefront with a personalization engine and full admin suite.
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Blaze
-**Social Media Platform**
+<div align="center" style="background:linear-gradient(135deg,#0b1220 0%,#170b2e 100%);border:1px solid rgba(0,240,255,0.25);border-radius:10px;padding:12px 10px;margin-bottom:12px;">
+<b style="font-size:15px;color:#00F0FF;">🌐 BLAZE</b><br/>
+<span style="font-size:12px;color:#8892b0;">Social Media Platform</span>
+</div>
 
 Full-scale social platform: posts, stories, reels, real-time chat — 15+ schema data model.
 - Real-time chat/notifications via WebSockets (Ably)
@@ -217,6 +245,7 @@ Three-layer neural network (128 → 64 → 1) in PyTorch, trained with Adam over
 <br/>
 
 **Anime Recommendation System** — *NLP Engine*
+<p align="center"><img src="assets/project/anime-recommendation/1.png" width="72%" style="border-radius:8px; border:1px solid #7000FF33;" /></p>
 Content-based recommendation engine using CountVectorizer and cosine similarity across 1000+ records. Pre-computed similarity matrices with NumPy vectorized operations. Deployed on Vercel with Flask backend.
 `Python` `Flask` `Scikit-learn` `NumPy`
 [🔗 Live Demo](https://anime-recommendations-lime.vercel.app/)
@@ -242,11 +271,30 @@ Private and group messaging with read receipts, online status tracking, and mess
 
 <div align="center">
 
-| IBM | AI & ML | Programming | Web |
-|:---|:---|:---|:---|
-| AI Fundamentals | Deep Learning | Python Programming | Intro to MERN Stack |
-| RAG for Enhanced AI Outputs | ML & Neural Networks | DSA in Python | Web Dev Fundamentals |
-| Make Agentic AI Work | | TypeScript Basics | |
+**IBM**
+
+|  |  |  |  |
+|:---:|:---:|:---:|:---:|
+| <img src="assets/certification-images/ai-agent.png" width="150" style="border-radius:8px;" /> | <img src="assets/certification-images/rag.png" width="150" style="border-radius:8px;" /> | <img src="assets/certification-images/ai-ibm.png" width="150" style="border-radius:8px;" /> | <img src="assets/certification-images/web-ibm.png" width="150" style="border-radius:8px;" /> |
+| **Make Agentic AI Work** | **RAG for Enhanced AI Outputs** | **AI Fundamentals** | **Web Dev Fundamentals** |
+
+<br/><br/>
+
+**Simplilearn**
+
+|  |  |  |  |  |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="assets/certification-images/dl-simplilearn.png" width="150" style="border-radius:8px;" /> | <img src="assets/certification-images/dsa-python-simplilearn.png" width="150" style="border-radius:8px;" /> | <img src="assets/certification-images/mern-simplilearn.png" width="150" style="border-radius:8px;" /> | <img src="assets/certification-images/python-simplilearn.png" width="150" style="border-radius:8px;" /> | <img src="assets/certification-images/typescript-simplilearn.png" width="150" style="border-radius:8px;" /> |
+| **Deep Learning** | **DSA in Python** | **Intro to MERN Stack** | **Python Programming** | **TypeScript Basics** |
+
+<br/><br/>
+
+**AI / ML Specializations**
+
+|  |  |  |  |
+|:---:|:---:|:---:|:---:|
+| <img src="assets/certification-images/ml-techgyan.png" width="150" style="border-radius:8px;" /> | <img src="assets/certification-images/ai-simplilearn.png" width="150" style="border-radius:8px;" /> | <img src="assets/certification-images/pytorch-simplilearn.png" width="150" style="border-radius:8px;" /> |  |
+| **ML & Neural Networks** | **Artificial Intelligence** | **PyTorch** |  |
 
 </div>
 
@@ -255,6 +303,10 @@ Private and group messaging with read receipts, online status tracking, and mess
 ## 📊 System Analytics
 
 <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=wVishal007&theme=radical&no-bg=true&no-frame=true&margin-w=6&margin-h=6&row=1&column=6" width="95%" />
+
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=wVishal007&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=7000FF&text_color=FFFFFF&border_radius=12" height="170" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wVishal007&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=FF00A0&currStreakLabel=00F0FF&border_radius=12" height="170" />
