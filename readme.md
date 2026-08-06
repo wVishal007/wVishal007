@@ -23,9 +23,7 @@
 
 <div align="center">
 
-<div style="display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:18px;">
-
-<div style="flex:1 1 360px;min-width:300px;max-width:640px;background:#0b1220;border:1px solid rgba(0,240,255,0.30);border-radius:12px;box-shadow:0 0 30px rgba(112,0,255,0.25);overflow:hidden;">
+<div style="background:#0b1220;border:1px solid rgba(0,240,255,0.30);border-radius:12px;box-shadow:0 0 30px rgba(112,0,255,0.25);overflow:hidden;max-width:640px;width:100%;margin:0 auto;text-align:left;">
 
 <div style="background:#0D1117;border-bottom:1px solid rgba(0,240,255,0.15);padding:10px 14px;">
 <span style="display:inline-block;width:11px;height:11px;border-radius:50%;background:#FF5F56;"></span>&nbsp;
@@ -50,11 +48,13 @@
 
 </div>
 
-<div style="flex:1 1 280px;min-width:270px;max-width:420px;text-align:left;background:linear-gradient(160deg,#0b1220 0%,#170b2e 100%);border:1px solid rgba(255,0,160,0.30);border-radius:12px;box-shadow:0 0 30px rgba(0,240,255,0.18);padding:18px 20px;">
+<br/>
+
+<div style="background:linear-gradient(160deg,#0b1220 0%,#170b2e 100%);border:1px solid rgba(255,0,160,0.30);border-radius:12px;box-shadow:0 0 30px rgba(0,240,255,0.18);padding:18px 20px;max-width:560px;width:100%;margin:0 auto;text-align:left;">
 
 <div style="font-family:'JetBrains Mono',monospace;font-size:12px;color:#FF00A0;letter-spacing:2px;margin-bottom:12px;border-bottom:1px solid rgba(255,0,160,0.25);padding-bottom:8px;">⚡ QUICK SPECS</div>
 
-<table style="border:0;">
+<table style="border:0;margin:0 auto;">
 <tr><td style="border:0;padding:4px 8px 4px 0;color:#00F0FF;">🟢</td><td style="border:0;padding:4px 0;"><b style="color:#27C93F;">ONLINE</b> <span style="color:#8892b0;">— open to collabs</span></td></tr>
 <tr><td style="border:0;padding:4px 8px 4px 0;color:#00F0FF;">📍</td><td style="border:0;padding:4px 0;color:#FFFFFF;">India <span style="color:#8892b0;">(Remote-first)</span></td></tr>
 <tr><td style="border:0;padding:4px 8px 4px 0;color:#00F0FF;">🎯</td><td style="border:0;padding:4px 0;color:#FFFFFF;">Multi-Agent AI · RAG · Full-Stack</td></tr>
@@ -63,8 +63,6 @@
 <tr><td style="border:0;padding:4px 8px 4px 0;color:#00F0FF;">🧑‍🏫</td><td style="border:0;padding:4px 0;color:#FFFFFF;"><b style="color:#FF00A0;">20+</b> <span style="color:#8892b0;">Developers Mentored</span></td></tr>
 <tr><td style="border:0;padding:4px 8px 4px 0;color:#00F0FF;">✉️</td><td style="border:0;padding:4px 0;"><a href="mailto:vishalsingh31879@gmail.com" style="color:#8892b0;text-decoration:none;">vishalsingh31879@gmail.com</a></td></tr>
 </table>
-
-</div>
 
 </div>
 
@@ -80,33 +78,11 @@ I build production-grade AI systems — multi-agent pipelines, hybrid RAG engine
 
 <div align="center">
 
-<div style="display:flex;flex-wrap:wrap;justify-content:center;align-items:stretch;gap:18px;">
-
-<div style="flex:1 1 230px;min-width:230px;max-width:320px;text-align:center;background:#0b1220;border:1px solid rgba(0,240,255,0.25);border-radius:12px;padding:16px 14px;">
-<b style="font-family:'JetBrains Mono',monospace;font-size:12px;color:#FF00A0;letter-spacing:2px;">🥇 WINNER</b>
-<p><img src="assets/hackathon-wins/iit.png" width="100%" style="border-radius:10px; border:1px solid rgba(0,240,255,0.25);" /></p>
-<b style="font-size:14px;">IIT Delhi Hackathon (TechGyan)</b>
-<br/>
-<span style="color:#8892b0;font-size:13px;">Led team to 1st place under time constraints</span>
-</div>
-
-<div style="flex:1 1 230px;min-width:230px;max-width:320px;text-align:center;background:#0b1220;border:1px solid rgba(255,0,160,0.25);border-radius:12px;padding:16px 14px;">
-<b style="font-family:'JetBrains Mono',monospace;font-size:12px;color:#00F0FF;letter-spacing:2px;">🥉 3RD PLACE</b>
-<p><img src="assets/hackathon-wins/infronix.png" width="100%" style="border-radius:10px; border:1px solid rgba(255,0,160,0.25);" /></p>
-<b style="font-size:14px;">Infronix Hackathon, IIIT Delhi</b>
-<br/>
-<span style="color:#8892b0;font-size:13px;">Built JanSaathi — AI govt-scheme recommender</span>
-</div>
-
-<div style="flex:1 1 230px;min-width:230px;max-width:320px;text-align:center;background:#0b1220;border:1px solid rgba(112,0,255,0.35);border-radius:12px;padding:16px 14px;">
-<b style="font-family:'JetBrains Mono',monospace;font-size:12px;color:#7000FF;letter-spacing:2px;">🎯 SPONSOR TRACK</b>
-<p><img src="assets/hackathon-wins/shebuilds.png" width="100%" style="border-radius:10px; border:1px solid rgba(112,0,255,0.30);" /></p>
-<b style="font-size:14px;">Hackemon Hackathon</b>
-<br/>
-<span style="color:#8892b0;font-size:13px;">Recognized for innovation &amp; execution, Team Dcoders</span>
-</div>
-
-</div>
+| 🥇 Winner | 🥉 3rd Place | 🎯 Sponsor Track |
+|:---:|:---:|:---:|
+| <img src="assets/hackathon-wins/iit.png" width="190" style="border-radius:10px; border:1px solid rgba(0,240,255,0.25);" /> | <img src="assets/hackathon-wins/infronix.png" width="190" style="border-radius:10px; border:1px solid rgba(255,0,160,0.25);" /> | <img src="assets/hackathon-wins/shebuilds.png" width="190" style="border-radius:10px; border:1px solid rgba(112,0,255,0.30);" /> |
+| **IIT Delhi Hackathon (TechGyan)** | **Infronix Hackathon, IIIT Delhi** | **Hackemon Hackathon** |
+| Led team to 1st place under time constraints | Built JanSaathi — AI govt-scheme recommender | Recognized for innovation &amp; execution, Team Dcoders |
 
 </div>
 
@@ -127,11 +103,9 @@ I build production-grade AI systems — multi-agent pipelines, hybrid RAG engine
 
 ## 🚀 Featured Builds
 
-<div align="center">
-
-<div style="display:flex;flex-wrap:wrap;justify-content:center;align-items:stretch;gap:18px;">
-
-<div style="flex:1 1 320px;min-width:280px;max-width:560px;background:#0b1220;border:1px solid rgba(0,240,255,0.20);border-radius:12px;padding:14px;">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 <div align="center" style="background:linear-gradient(135deg,#0b1220 0%,#170b2e 100%);border:1px solid rgba(0,240,255,0.25);border-radius:10px;padding:12px 10px;margin-bottom:12px;">
 <b style="font-size:15px;color:#00F0FF;">🔬 RESEARCHOS</b><br/>
@@ -149,9 +123,8 @@ I build production-grade AI systems — multi-agent pipelines, hybrid RAG engine
 
 [🔗 Live Demo](https://research-os-three.vercel.app/)
 
-</div>
-
-<div style="flex:1 1 320px;min-width:280px;max-width:560px;background:#0b1220;border:1px solid rgba(0,240,255,0.20);border-radius:12px;padding:14px;">
+</td>
+<td width="50%" valign="top">
 
 <div align="center" style="background:linear-gradient(135deg,#0b1220 0%,#170b2e 100%);border:1px solid rgba(0,240,255,0.25);border-radius:10px;padding:12px 10px;margin-bottom:12px;">
 <b style="font-size:15px;color:#00F0FF;">⚡ CONTENT GENERATOR PLATFORM</b><br/>
@@ -169,9 +142,10 @@ LangGraph StateGraph workflow: generates → scores 0–10 → iteratively optim
 
 [🔗 Live Demo](https://content-generator-agent-pi.vercel.app/) · [💻 Source](https://github.com/wVishal007/content_generator_agent)
 
-</div>
-
-<div style="flex:1 1 320px;min-width:280px;max-width:560px;background:#0b1220;border:1px solid rgba(0,240,255,0.20);border-radius:12px;padding:14px;">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 <div align="center" style="background:linear-gradient(135deg,#0b1220 0%,#170b2e 100%);border:1px solid rgba(0,240,255,0.25);border-radius:10px;padding:12px 10px;margin-bottom:12px;">
 <b style="font-size:15px;color:#00F0FF;">🧠 YT INTELLIGENCE ENGINE</b><br/>
@@ -189,9 +163,8 @@ Conversational AI over YouTube transcripts with hybrid dense + keyword retrieval
 
 [💻 Source](https://github.com/wVishal007/yt-rag-chatbot-extension)
 
-</div>
-
-<div style="flex:1 1 320px;min-width:280px;max-width:560px;background:#0b1220;border:1px solid rgba(0,240,255,0.20);border-radius:12px;padding:14px;">
+</td>
+<td width="50%" valign="top">
 
 <div align="center" style="background:linear-gradient(135deg,#0b1220 0%,#170b2e 100%);border:1px solid rgba(0,240,255,0.25);border-radius:10px;padding:12px 10px;margin-bottom:12px;">
 <b style="font-size:15px;color:#00F0FF;">💼 AI INTERVIEW COPILOT</b><br/>
@@ -209,9 +182,10 @@ Dynamic question generation across technical, behavioral, and system-design doma
 
 [🔗 Live Demo](https://ai-job-copilot-one.vercel.app)
 
-</div>
-
-<div style="flex:1 1 320px;min-width:280px;max-width:560px;background:#0b1220;border:1px solid rgba(0,240,255,0.20);border-radius:12px;padding:14px;">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 <div align="center" style="background:linear-gradient(135deg,#0b1220 0%,#170b2e 100%);border:1px solid rgba(0,240,255,0.25);border-radius:10px;padding:12px 10px;margin-bottom:12px;">
 <b style="font-size:15px;color:#00F0FF;">🛍️ ETHEREAL COMMERCE</b><br/>
@@ -229,9 +203,8 @@ Curated boutique storefront with a personalization engine and full admin suite.
 
 [🔗 Live Demo](https://ethix-nine.vercel.app/)
 
-</div>
-
-<div style="flex:1 1 320px;min-width:280px;max-width:560px;background:#0b1220;border:1px solid rgba(0,240,255,0.20);border-radius:12px;padding:14px;">
+</td>
+<td width="50%" valign="top">
 
 <div align="center" style="background:linear-gradient(135deg,#0b1220 0%,#170b2e 100%);border:1px solid rgba(0,240,255,0.25);border-radius:10px;padding:12px 10px;margin-bottom:12px;">
 <b style="font-size:15px;color:#00F0FF;">🌐 BLAZE</b><br/>
@@ -249,11 +222,9 @@ Full-scale social platform: posts, stories, reels, real-time chat — 15+ schema
 
 [🔗 Live Demo](https://blaze-social-zeta.vercel.app/)
 
-</div>
-
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 
 <details>
 <summary><b>📈 More Projects — Expand</b></summary>
@@ -293,83 +264,30 @@ Private and group messaging with read receipts, online status tracking, and mess
 
 <div align="center">
 
-<b style="font-family:'JetBrains Mono',monospace;font-size:13px;color:#00F0FF;letter-spacing:2px;">IBM</b>
+**IBM**
 
-<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:14px;margin:14px 0 26px 0;">
+|  |  |  |  |
+|:---:|:---:|:---:|:---:|
+| <img src="assets/certification-images/ai-agent.png" width="150" style="border-radius:8px;" /> | <img src="assets/certification-images/rag.png" width="150" style="border-radius:8px;" /> | <img src="assets/certification-images/ai-ibm.png" width="150" style="border-radius:8px;" /> | <img src="assets/certification-images/web-ibm.png" width="150" style="border-radius:8px;" /> |
+| **Make Agentic AI Work** | **RAG for Enhanced AI Outputs** | **AI Fundamentals** | **Web Dev Fundamentals** |
 
-<div style="width:150px;text-align:center;margin:6px;">
-<img src="assets/certification-images/ai-agent.png" width="150" style="border-radius:8px;" />
-<div style="font-size:12px;color:#8892b0;margin-top:6px;">Make Agentic AI Work</div>
-</div>
+<br/><br/>
 
-<div style="width:150px;text-align:center;margin:6px;">
-<img src="assets/certification-images/rag.png" width="150" style="border-radius:8px;" />
-<div style="font-size:12px;color:#8892b0;margin-top:6px;">RAG for Enhanced AI Outputs</div>
-</div>
+**Simplilearn**
 
-<div style="width:150px;text-align:center;margin:6px;">
-<img src="assets/certification-images/ai-ibm.png" width="150" style="border-radius:8px;" />
-<div style="font-size:12px;color:#8892b0;margin-top:6px;">AI Fundamentals</div>
-</div>
+|  |  |  |  |  |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="assets/certification-images/dl-simplilearn.png" width="150" style="border-radius:8px;" /> | <img src="assets/certification-images/dsa-python-simplilearn.png" width="150" style="border-radius:8px;" /> | <img src="assets/certification-images/mern-simplilearn.png" width="150" style="border-radius:8px;" /> | <img src="assets/certification-images/python-simplilearn.png" width="150" style="border-radius:8px;" /> | <img src="assets/certification-images/typescript-simplilearn.png" width="150" style="border-radius:8px;" /> |
+| **Deep Learning** | **DSA in Python** | **Intro to MERN Stack** | **Python Programming** | **TypeScript Basics** |
 
-<div style="width:150px;text-align:center;margin:6px;">
-<img src="assets/certification-images/web-ibm.png" width="150" style="border-radius:8px;" />
-<div style="font-size:12px;color:#8892b0;margin-top:6px;">Web Dev Fundamentals</div>
-</div>
+<br/><br/>
 
-</div>
+**AI / ML Specializations**
 
-<b style="font-family:'JetBrains Mono',monospace;font-size:13px;color:#00F0FF;letter-spacing:2px;">SIMPLILEARN</b>
-
-<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:14px;margin:14px 0 26px 0;">
-
-<div style="width:150px;text-align:center;margin:6px;">
-<img src="assets/certification-images/dl-simplilearn.png" width="150" style="border-radius:8px;" />
-<div style="font-size:12px;color:#8892b0;margin-top:6px;">Deep Learning</div>
-</div>
-
-<div style="width:150px;text-align:center;margin:6px;">
-<img src="assets/certification-images/dsa-python-simplilearn.png" width="150" style="border-radius:8px;" />
-<div style="font-size:12px;color:#8892b0;margin-top:6px;">DSA in Python</div>
-</div>
-
-<div style="width:150px;text-align:center;margin:6px;">
-<img src="assets/certification-images/mern-simplilearn.png" width="150" style="border-radius:8px;" />
-<div style="font-size:12px;color:#8892b0;margin-top:6px;">Intro to MERN Stack</div>
-</div>
-
-<div style="width:150px;text-align:center;margin:6px;">
-<img src="assets/certification-images/python-simplilearn.png" width="150" style="border-radius:8px;" />
-<div style="font-size:12px;color:#8892b0;margin-top:6px;">Python Programming</div>
-</div>
-
-<div style="width:150px;text-align:center;margin:6px;">
-<img src="assets/certification-images/typescript-simplilearn.png" width="150" style="border-radius:8px;" />
-<div style="font-size:12px;color:#8892b0;margin-top:6px;">TypeScript Basics</div>
-</div>
-
-</div>
-
-<b style="font-family:'JetBrains Mono',monospace;font-size:13px;color:#00F0FF;letter-spacing:2px;">AI / ML SPECIALIZATIONS</b>
-
-<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:14px;margin:14px 0 6px 0;">
-
-<div style="width:150px;text-align:center;margin:6px;">
-<img src="assets/certification-images/ml-techgyan.png" width="150" style="border-radius:8px;" />
-<div style="font-size:12px;color:#8892b0;margin-top:6px;">ML &amp; Neural Networks</div>
-</div>
-
-<div style="width:150px;text-align:center;margin:6px;">
-<img src="assets/certification-images/ai-simplilearn.png" width="150" style="border-radius:8px;" />
-<div style="font-size:12px;color:#8892b0;margin-top:6px;">Artificial Intelligence</div>
-</div>
-
-<div style="width:150px;text-align:center;margin:6px;">
-<img src="assets/certification-images/pytorch-simplilearn.png" width="150" style="border-radius:8px;" />
-<div style="font-size:12px;color:#8892b0;margin-top:6px;">PyTorch</div>
-</div>
-
-</div>
+|  |  |  |  |
+|:---:|:---:|:---:|:---:|
+| <img src="assets/certification-images/ml-techgyan.png" width="150" style="border-radius:8px;" /> | <img src="assets/certification-images/ai-simplilearn.png" width="150" style="border-radius:8px;" /> | <img src="assets/certification-images/pytorch-simplilearn.png" width="150" style="border-radius:8px;" /> |  |
+| **ML &amp; Neural Networks** | **Artificial Intelligence** | **PyTorch** |  |
 
 </div>
 
